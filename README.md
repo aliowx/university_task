@@ -98,22 +98,6 @@ The project demonstrates how data-driven insights can be leveraged to build and 
 - **Key Insights**:
   - Highlight the most significant results and what they mean.
 
----
-
-## Conclusion and Future Work
-
-### Conclusion
-- Summarize the project's outcomes and its significance.
-
-### Future Work
-- Suggestions for improving the model or applying it to new problems.
-- Examples:
-  - Fine-tuning hyperparameters
-  - Incorporating more complex architectures
-  - Exploring alternative datasets
-
----
-
 ## How to Run the Project
 
 1. **Clone the Repository**:
