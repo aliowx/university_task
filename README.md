@@ -1,17 +1,6 @@
 # Data Analysis and Deep Learning
-
-## Table of Contents
-1. [Introduction](#introduction)
-2. [Project Objectives](#project-objectives)
-3. [Technologies Used](#technologies-used)
-4. [Dataset](#dataset)
-5. [Methodology](#methodology)
-6. [Deep Learning Model](#deep-learning-model)
-7. [Results](#results)
-8. [Conclusion and Future Work](#conclusion-and-future-work)
-9. [How to Run the Project](#how-to-run-the-project)
-
 ---
+
 
 ## Introduction
 
